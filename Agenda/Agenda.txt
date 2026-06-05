@@ -1,0 +1,9 @@
+Recap of HelloWorld Program
+Notes
+--------------------------------
+print
+println
+----------------------------------------------------------------
+Rename the Program with a different name
+error: java: class Hello is public, should be declared in a file named Hello.java
+----------------------------------------------------------------
