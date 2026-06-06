@@ -1,0 +1,38 @@
+Exercise 1: Print Personal Information
+Task: Create variables to store:
+Name
+Age
+City
+Exercise 2: Store and Print Marks { Create variables for three subject marks.}
+Exercise 3: Add Two Numbers { Create two integer variables. Find and print their sum.}
+Exercise 4: Find Product of Two Numbers
+Exercise 5: Calculate Area of Rectangle
+Exercise 6: Calculate Simple Interest
+Exercise 7: Calculate Average Marks
+------------------
+output like the below:
+Byte Value    : 100
+Integer Value : 5000
+Double Value  : 45.67
+Character     : A
+Boolean Value : true
+String Value  : Java
+---------------------------------
+----- Student Report -----
+
+Name       : Priya
+Roll No    : 101
+Course     : B.Tech
+Percentage : 87.5
+----------------------------------
+Name      : Ravi
+Age       : 19
+College   : ABC Engineering College
+
+Marks:
+Maths     : 85
+Physics   : 90
+Chemistry : 88
+
+Total     : 263
+Average   : 87
