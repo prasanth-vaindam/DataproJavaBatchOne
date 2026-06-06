@@ -1,6 +1,15 @@
-1. Hello World
+1. 8 primitive variables and Final Variables 
 2. Comments
 3. Escape Sequences
+\n new line
+\t tab
+C:\Program Files\Java
+It's Java
+He said, "Java is easy."
+-----------------------------
+String name = "Ravi";
+int[] marks = {90, 85, 95};
+
 
 Exercise 1: Print Personal Information
 Task: Create variables to store:
