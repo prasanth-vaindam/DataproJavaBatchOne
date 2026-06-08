@@ -1,0 +1,33 @@
+Assignment 4: ASCII Character Display
+-----------------------------------------
+Type Casting
+Explicit Type Casting
+(type) expression;
+(float)(x / y +5);
+TCDataLossExample 
+int num = 130; byte b = (byte) num;
+-----
+double x = 45.78;
+int y = (int)x;
+System.out.println(y);
+------
+int x = 50;
+double y = x;
+System.out.println(y);
+----
+char ch = 'B';
+int x = ch;
+System.out.println(x);
+---
+int a = 10;
+int b = 3;
+System.out.println(a / b);   // Integer division, result is 3
+
+double c = 10.0d;
+double d = 3.0d;
+System.out.println(c / d);   // Decimal division, result is 3.333...
+----
+Incrementing and Decrementing
+Counting People
+-------------
+Assignment Operators
