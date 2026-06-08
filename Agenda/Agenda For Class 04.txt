@@ -6,6 +6,16 @@ Explicit Type Casting
 (float)(x / y +5);
 TCDataLossExample 
 int num = 130; byte b = (byte) num;
+
+2. Integer Promotion
+int num = 5
+double sum = 30;
+double average = sum / num;    //num also converts to double
+
+3. Conversion during a method call
+float floatVariable = 4.56f;
+double doubleVariable = Math.sin(floatVariable);
+//method sin() expects double and hence floatVariable converts to double
 -----
 double x = 45.78;
 int y = (int)x;
