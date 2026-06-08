@@ -1,12 +1,5 @@
-Assignment 4: ASCII Character Display
------------------------------------------
-Type Casting
-Explicit Type Casting
-(type) expression;
-(float)(x / y +5);
-TCDataLossExample 
-int num = 130; byte b = (byte) num;
 
+Pending topics: 
 2. Integer Promotion
 int num = 5
 double sum = 30;

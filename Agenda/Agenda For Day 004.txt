@@ -1,0 +1,11 @@
+Assignment 4: ASCII Character Display
+-----------------------------------------
+ASCII Character Display - Done
+Rules for Variable Names - Done
+VarDO's and Don'ts - Done
+Type Casting - Done
+Explicit Type Casting -Done
+(type) expression; -Done
+(float)(x / y +5); 
+TCDataLossExample 
+int num = 130; byte b = (byte) num; - Done
