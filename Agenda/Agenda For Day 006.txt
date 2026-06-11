@@ -1,1 +1,12 @@
 Scanner
+Program 1: Add Two Numbers
+Program 2: Area of Rectangle
+Program 3: Student Details
+----
+Check whether a number is positive.
+Check whether a number is even.
+Check voting eligibility.
+
+https://chatgpt.com/share/6a28ddd6-11dc-8321-8cd4-17a03c4a425d
+Check whether marks are greater than 75.
+Check whether a character is uppercase.
