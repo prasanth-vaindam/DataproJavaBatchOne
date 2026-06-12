@@ -17,7 +17,8 @@ public class CheckEligibityToVote2 {
 		} else {
 			System.out.println("Wait for " + (18 - age) + "Years to vote!");
 		}
-
+		
+		sc.close();
 	}
 
 }
