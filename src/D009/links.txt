@@ -1,0 +1,20 @@
+https://www.w3schools.com/java/java_strings.asp
+https://chatgpt.com/share/6a2c136c-2970-83ee-8bff-c1adfef09cc0
+
+String Length
+String Concatenation
+
+Finding a Character in a String - indexOf()
+The indexOf() method returns the index (the position) of the first occurrence of a specified text in a string
+
+Programs:
+Example 4: Find Position of a Character
+Example 5: Find Second Occurrence
+Extract Last Folder Name Using lastIndexOf()
+Example 2: Extract File Extension using indexOf
+Example 3: Extract Domain from Email
+Example 6: Username and Domain Extractor using substring
+
+
+
+
