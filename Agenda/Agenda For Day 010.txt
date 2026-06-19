@@ -1,0 +1,3 @@
+Email validator
+extract last name
+pasword strength - match regex

@@ -1,0 +1,35 @@
+While Loops
+Syntax
+
+
+Teaching Order
+
+For one class, teach:
+
+Print 1 to 10
+Print 10 to 1
+Print Even Numbers
+Sum of Numbers
+Multiplication Table
+
+Then in the next class move to:
+
+Count Digits
+Sum of Digits
+Reverse Number
+Palindrome
+Factorial
+
+Programs:
+Print numbers from 1 to 50.
+Print all multiples of 5 up to 100.
+Find sum of even numbers from 1 to 100.
+Count digits in a user-entered number.
+Sum of digits in a user-entered number.
+Reverse a number.
+Find factorial.
+Guess the password
+Check palindrome number.
+Count vowels in a string.
+Print a multiplication table.
+Keep asking for a password until the correct one is entered.
