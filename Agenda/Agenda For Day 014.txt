@@ -21,6 +21,8 @@ Reverse-print the array (using a traditional for loop).
 Count positive and negative numbers.
 Print only numbers divisible by 5.
 
+----
+https://chatgpt.com/share/6a37fd99-3ec0-83ee-b739-b0caa5b41114
 -------------
 Foreach
 
