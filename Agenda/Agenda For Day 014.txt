@@ -1,1 +1,37 @@
 Array Operations Using For Loop
+
+int ages[] = {18,20,19,21,22};
+What is the first element?
+What is the last element?
+What is the index of 21?
+How many elements are there?
+What is ages.length?
+What is ages[2]?
+What happens if we write ages[5]?
+
+
+Print all elements of an array.
+Find the sum of array elements.
+Find the average of array elements.
+Find the largest element.
+Find the smallest element.
+Count even and odd numbers.
+Search for a given number.
+Reverse-print the array (using a traditional for loop).
+Count positive and negative numbers.
+Print only numbers divisible by 5.
+
+-------------
+Foreach
+
+
+
+
+Print Array Elements
+Find the Sum of Array Elements
+Find the Maximum Number
+Count Even Numbers
+Print Student Names
+Print Each Character of a String
+Find the Average of Marks
+Print Only Names Starting with 'A'
