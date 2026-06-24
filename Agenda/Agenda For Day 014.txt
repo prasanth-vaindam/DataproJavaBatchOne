@@ -2,12 +2,12 @@ Array Operations Using For Loop
 
 int ages[] = {18,20,19,21,22};
 What is the first element?
-What is the last element?
-What is the index of 21?
-How many elements are there?
+What is the last element? 
+What is the index of 21?  
+How many elements are there? 
 What is ages.length?
-What is ages[2]?
-What happens if we write ages[5]?
+What is ages[2]? 
+What happens if we write ages[5]? 
 
 
 Print all elements of an array.

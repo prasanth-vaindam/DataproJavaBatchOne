@@ -1,0 +1,12 @@
+Foreach
+break and continue
+
+1. Login Attempts (Stop asking for the password once the correct password is entered.)
+2. Search for a Student (break)
+3. Find First Even Number
+4. Exit Menu
+
+Ignore Negative Numbers (continue)
+Skip Vowels While Processing
+Print numbers 1 to 100 by Skip Multiples of 5
+Print characters in password except space Password Validation (continue)
