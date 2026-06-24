@@ -1,4 +1,4 @@
-package D0016;
+package D016;
 
 public class StaticMethod {
 
