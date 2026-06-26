@@ -1,0 +1,45 @@
+Variable scope
+local variable
+Why is the output 11 every time? Why doesn't it become 12, then 13?
+
+display()
+
+number created
+number = 10
+number++
+number = 11
+Print 11
+display() ends
+number destroyed
+
+The next call starts fresh:
+
+display()
+
+number created again
+number = 10
+number++
+number = 11
+Print 11
+display() ends
+number destroyed
+
+The previous value is not remembered because the local variable is destroyed when the method finishes.
+
+A local variable is declared inside a method.
+It is created when the method starts.
+It is destroyed when the method ends.
+A new copy is created every time the method is called.
+It cannot be accessed outside the method.
+
+
+----------------------------------------------------------------------
+An instance variable is declared inside a class but outside all methods.
+It belongs to an object, not to the class.
+It is created when an object is created using new.
+Every object has its own copy of the instance variables.
+Changing the instance variable of one object does not affect other objects.
+
+instance variable
+static variable
+return values can empty, number string

@@ -19,13 +19,13 @@ public class Display {
 		
 		Display objR = new Display();
 		Display objH = new Display();
-//		
-//		
-//		objR.name = "Rupesh";
-//		objR.greet();
-//		
-//		objH.name = "Harshit";
-//		objH.greet();
+		
+		objR.greet();		
+		objR.name = "Rupesh";
+
+		
+		objH.name = "Harshit";
+		objH.greet();
 
 	}
 
