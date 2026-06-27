@@ -1,0 +1,99 @@
+Step 1: Why do we need OOP?
+
+Ask students:
+
+"If you are writing software for a school, what things exist?"
+
+Students answer:
+
+Student
+Teacher
+Classroom
+Subject
+Bus
+Library Book
+
+Then ask:
+
+"Each student has what?"
+
+Students say:
+
+Name
+Roll Number
+Age
+Grade
+
+Then ask:
+
+"What can a student do?"
+
+Students say:
+
+Study
+AttendClass()
+WriteExam()
+PayFee()
+
+Now tell them:
+
+A real-world thing becomes an Object in Java.
+
+
+Step 2: Introduce Objects
+
+Draw on the board.
+
+Student
+
+Name : Rahul
+Roll : 25
+Age : 15
+
+Study()
+WriteExam()
+
+Explain
+
+Object = Data + Behavior
+
+Data → Variables
+
+Behavior → Methods
+
+Step 3: What is a Class?
+
+Tell students
+
+Suppose a school has 500 students.
+
+Do we write code 500 times?
+
+No.
+
+We create a blueprint.
+
+That blueprint is called a Class.
+
+ Blueprint
+           Student
+             |
+   ---------------------
+   |         |         |
+ Student1 Student2 Student3
+
+Class = Blueprint
+
+Object = Real thing made from blueprint
+
+Step 4: First Program
+
+Step 5: Multiple Objects
+
+Step 6: Constructor
+
+Ask
+
+Can we initialize every variable manually?
+
+Instead

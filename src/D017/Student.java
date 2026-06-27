@@ -1,5 +1,4 @@
 package D017;
-
 class Student {
 
     // Static variable
@@ -8,8 +7,8 @@ class Student {
     // Instance variable
     String name;
 
-    Student(String name) {
-        this.name = name;
+    Student(String n) {
+        name = n;
         totalStudents++;
     }
 
@@ -28,11 +27,8 @@ class Student {
 
         Student s1 = new Student("Rahul");
         s1.display();
-        
-
         Student s2 = new Student("Priya");
         s2.display();
-
         s1.display();
     }
 }
